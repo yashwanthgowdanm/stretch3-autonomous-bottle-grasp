@@ -6,7 +6,7 @@ Built in the Neuro-symbolic Intelligent Cyber-physical Systems (NICE) Lab, Arizo
 
 | Wrist camera view | Depth + detection (macro scan) | Depth + detection (micro scan) |
 |---|---|---|
-| ![Wrist camera view of the bottle between the gripper fingers](docs/wrist_camera_view.jpg) | ![Depth map with YOLO bounding box during the macro scan](docs/depth_macro_scan.jpg) | ![Depth map with YOLO bounding box during the micro scan](docs/depth_micro_scan.jpg) |
+| ![Wrist camera view of the bottle between the gripper fingers](frame_1784327862.835.jpg) | ![Depth map with YOLO bounding box during the macro scan](debug_depth_detect.jpg) | ![Depth map with YOLO bounding box during the micro scan](debug_depth_micro.jpg) |
 
 ---
 
